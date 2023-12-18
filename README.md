@@ -17,7 +17,7 @@ Bonjour ! Bienvenue dans l'atelier Robot Framework. Ce projet comporte les élé
 ## Présentation de Robot Framework
 
 Ce projet a été créé dans le but de présenter les fonctionnalités puissantes du Robot Framework. Les tests automatisés incluent des cas d'utilisation courants tels que la vérification du titre d'une page, la recherche sur Google, la connexion automatisée sur Udemy, et la recherche de cours sur la plateforme Udemy.
-https://drive.google.com/file/d/1Mo7U7OuA4Gv5mjp_rOkhyaaGKO__5NmJ/view?usp=drive_link
+https://www.canva.com/design/DAFVyEP_Rck/WRhqhyTliK6Ct4hsc93VmA/edit?utm_content=DAFVyEP_Rck&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ## Tutoriel
 
