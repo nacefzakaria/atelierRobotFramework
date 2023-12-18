@@ -22,7 +22,9 @@ https://drive.google.com/file/d/1Mo7U7OuA4Gv5mjp_rOkhyaaGKO__5NmJ/view?usp=drive
 ## Tutoriel
 
 Pour un tutoriel détaillé sur la mise en place de ce projet et l'utilisation du Robot Framework, veuillez consulter la documentation du projet. Suivez les étapes fournies pour exécuter les tests et comprendre comment le Robot Framework peut simplifier le processus d'automatisation des tests.
+
 https://drive.google.com/file/d/1Mo7U7OuA4Gv5mjp_rOkhyaaGKO__5NmJ/view?usp=drive_link
+
 ---
 
 *Note : Assurez-vous d'avoir installé toutes les dépendances nécessaires, y compris le Robot Framework et la bibliothèque SeleniumLibrary, avant d'exécuter les tests.*
