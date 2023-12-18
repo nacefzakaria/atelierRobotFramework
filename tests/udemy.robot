@@ -12,10 +12,9 @@ ${BROWSER}        chrome
 *** Test Cases ***
 Login to Udemy
     Click Login Button  
-    Sleep    60s
     [Documentation]    Login to Udemy with your credentials.
-    Input Username     utacostore@gmail.com
-    Input Password     id:form-group--3     Zaka12/02
+    Input Username     email
+    Input Password     id:form-group--3     password
     Submit Login
 
 My Learning check 
