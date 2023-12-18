@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 6.1.1 (Python 3.11.4 on win32)" generated="20231218 00:55:38.844" rpa="false" schemaversion="4">
+<suite id="s1" name="Google Search Tests" source="C:\MyWebTestProject\tests\google_search_tests.robot">
+<test id="s1-t1" name="Search in Google" line="7">
+<kw name="Open Google">
+<msg timestamp="20231218 00:55:38.870" level="FAIL">No keyword with name 'Open Google' found.</msg>
+<status status="FAIL" starttime="20231218 00:55:38.870" endtime="20231218 00:55:38.870"/>
+</kw>
+<kw name="Input Search Query">
+<arg>Zakaria</arg>
+<status status="NOT RUN" starttime="20231218 00:55:38.872" endtime="20231218 00:55:38.872"/>
+</kw>
+<kw name="Click Search Button">
+<status status="NOT RUN" starttime="20231218 00:55:38.873" endtime="20231218 00:55:38.873"/>
+</kw>
+<doc>Search for a query in Google.</doc>
+<status status="FAIL" starttime="20231218 00:55:38.868" endtime="20231218 00:55:38.873">No keyword with name 'Open Google' found.</status>
+</test>
+<doc>Test cases for Google search.</doc>
+<status status="FAIL" starttime="20231218 00:55:38.845" endtime="20231218 00:55:38.876"/>
+</suite>
+<statistics>
+<total>
+<stat pass="0" fail="1" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="0" fail="1" skip="0" id="s1" name="Google Search Tests">Google Search Tests</stat>
+</suite>
+</statistics>
+<errors>
+<msg timestamp="20231218 00:55:38.867" level="ERROR">Error in file 'C:\MyWebTestProject\tests\google_search_tests.robot' on line 4: Resource file 'google_keywords.robot' does not exist.</msg>
+</errors>
+</robot>
